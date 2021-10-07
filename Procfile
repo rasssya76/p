@@ -1,1 +1,1 @@
-worker : node fernazer.js
+worker : node Fernazer.js
